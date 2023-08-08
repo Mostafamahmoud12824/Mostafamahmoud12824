@@ -65,6 +65,4 @@ Aside from coding, I enjoy exploring new **technologies and tools**, reading **t
 
 
 # 📊 GitHub Status
-![](https://github-readme-stats.vercel.app/api?username=IslamSayedGalal&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IslamSayedGalal&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamSayedGalal&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
