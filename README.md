@@ -15,8 +15,11 @@ Aside from coding, I enjoy exploring new **technologies and tools**, reading **t
 
 
 - Thank you for visiting, and feel free to **contact me** if you have any questions or suggestions. :smiley:
-
-
+ 
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+    <a href="https://www.buymeacoffee.com/mostafasalR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+    </p>
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/mostafamahmoud12635]) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-mahmoud-salah-1234567d89) [![Email](https://img.shields.io/badge/Email-%231DA1F2.svg?logo=Email&logoColor=white)](**mostafasalah12635@gmail.com**) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mostafamahmoudsalahmahmoud7926) 
